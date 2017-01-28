@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'bundler/setup'
 require 'ruby-units'
 
 multiplier = 2
